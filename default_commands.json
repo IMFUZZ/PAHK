@@ -1,0 +1,73 @@
+{
+	"hotKeys" : {
+		"Escape" : {
+			"actions" : [
+				{
+					"type" : "cmd",
+					"args" : ["echo", "You smell"]
+				}
+			]
+		},
+		"a" : {
+			"actions" : [
+				{
+					"type" : "cmd",
+					"args" : ["echo", "You smell"]
+				}
+			]
+		}
+	},
+	"hotStrings" : {
+		"subl_" : {
+			"actions" : [
+				{
+					"type" : "cmd",
+					"args" : ["subl", "./"]
+				}
+			]
+		},
+		"bonj_" : {
+			"actions" : [
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["H"]
+				},
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["w"]
+				}
+			]
+		},
+		"bonj2_" : {
+			"actions" : [
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["H"]
+				},
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["w"]
+				}
+			]
+		},
+		"bonj3_" : {
+			"actions" : [
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["H"]
+				},
+				{
+					"type" : "pyautogui",
+					"function" : "typewrite",
+					"params" : ["w"]
+				}
+			]
+			
+		}
+	}
+}

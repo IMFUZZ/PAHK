@@ -1,0 +1,31 @@
+{
+	"modifiers" : {
+			"Shift_R" 	: {
+				"active" : 0
+			},
+			"Shift_L" 	: {
+				"active" : 0
+			},
+			"Alt_R" 	: {
+				"active" : 0
+			},
+			"Alt_L" 	: {
+				"active" : 0
+			},
+			"Control_R" : {
+				"active" : 0
+			},
+			"Control_L" : {
+				"active" : 0
+			},
+			"Caps_Lock" : {
+				"active" : 0
+			},
+			"Tab" 		: {
+				"active" : 0
+			}
+		},
+	"forceExitKeys" : [
+		"Escape"
+	]
+}
