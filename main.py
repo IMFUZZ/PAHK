@@ -1,3 +1,5 @@
+import platform
+currentPlatform = platform.system() # "Windows", "Linux", "OSX"?
 
 import pyxhook, pyautogui, sys, subprocess, json
 
